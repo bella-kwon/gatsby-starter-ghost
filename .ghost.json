@@ -1,7 +1,7 @@
 {
   "development": {
     "apiUrl": "https://bujirunner.herokuapp.com",
-    "contentApiKey": "762c7a1bc9634f60bb128f763e",
+    "contentApiKey": "762c7a1bc9634f60bb128f763e"
   },
   "production": {
     "apiUrl": "https://bujirunner.herokuapp.com",
